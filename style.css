@@ -16,15 +16,21 @@
   width: 80%;
   display: flex;
   flex-wrap: wrap;
+  padding: 50px;
 }
 
 .img_container {
   max-width: 50%;
 }
 
+.blue {
+  color: #003399;
+}
+
 .gallery_img {
   width: 100%;
   padding: 5px;
+  border-radius: 10px;
 }
 
 .main_grid {
